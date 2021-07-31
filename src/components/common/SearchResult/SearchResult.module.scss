@@ -1,0 +1,48 @@
+.Container {
+
+    .title {
+        color: #1a0dab;
+        font-size: 20px;
+    }
+
+    .link {
+        margin-top: -1px;
+        font-size: 16px;
+        color: #006621;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .link:hover{
+        text-decoration: none;
+    }
+
+    .LinkContainer {
+        display: block;
+        text-decoration: none;
+    }
+
+    .LinkContainer:hover{
+        .title {
+            text-decoration: underline;
+        }
+    }
+
+    p {
+        color: #545454;
+        font-size: 14px;
+        margin-top: -16px;
+        line-height: 1.57;
+    }
+}
+
+@media only screen and (max-width: 950px){
+    .Container {
+        box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+        padding: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 1px;
+        border-radius: 8px;
+    }
+}

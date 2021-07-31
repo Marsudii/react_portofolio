@@ -1,0 +1,72 @@
+.Container {
+
+    .title {
+        color: #1a0dab;
+        font-size: 20px;
+    }
+
+    .link {
+        margin-top: -1px;
+        font-size: 16px;
+        height: 22px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;        
+        color: #006621;
+    }
+
+    .link:hover{
+        text-decoration: none;
+    }
+
+    .LinkContainer {
+        display: block;
+        text-decoration: none;
+    }
+
+    .LinkContainer:hover{
+        .title {
+            text-decoration: underline;
+        }
+    }
+
+    p {
+        color: #545454;
+        font-size: 14px;
+        //No idea why this works but we're not gonna worry about it :)
+        margin-top: -16px;
+        line-height: 1.57;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+}
+
+.DescriptionContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.img {
+    margin-top: -12px;
+    background-color: black;
+    max-height: 100%;
+    width: 115px;
+    object-fit: cover;
+}
+
+.Description {
+    padding: 5px;
+}
+
+@media only screen and (max-width: 950px){
+    .Container {
+        box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+        padding: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 0;
+        border-radius: 8px;
+    }
+}
