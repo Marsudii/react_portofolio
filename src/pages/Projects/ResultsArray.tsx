@@ -9,7 +9,7 @@ const ResultsArray = [
   },
   {
     title: 'Majelis Relita _ Landing Page',
-    source: 'https://github.com/H-Richard/3dharbor',
+    source: 'https://github.com/Marsudii/majelis-relita-landing-page',
     live: 'http://majelisrelita.rf.gd/?i=1',
     description: 'Frontend for 3D Harbor, a real estate VR solutions company.',
     img: 'https://1.bp.blogspot.com/-G8xUUL5_QgU/YPtLGJmDqQI/AAAAAAAAAb8/EEDlzy7c6Yg6gx9pgTcF7NvA-DsDN3FowCLcBGAsYHQ/s893/sasa.png',
