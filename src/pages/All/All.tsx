@@ -14,7 +14,7 @@ import LoadTime from '../../components/common/LoadTime/LoadTime';
 const imgs = {
   1: require('./imgs/1.jpg'),
   2: require('./imgs/2.jpg'),
-  3: require('./imgs/3.jpg'),
+  3: require('./imgs/3.JPG'),
   4: require('./imgs/4.jpg'),
   5: require('./imgs/5.jpg'),
   6: require('./imgs/6.jpg'),
