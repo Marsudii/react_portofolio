@@ -28,22 +28,20 @@ const Skills: React.FC = () => {
         </div>
         <FadeIn delay={500}>
           <div className={styles.side}>
-            <span>Advanced: </span>
+            <span>Ahli (Proficient) : </span>
             <span>
-              Deep knowledge of technology and related frameworks, skilled
-              enough to teach, lead and architect projects.
+              Di level ini, seorang praktisi mulai memahami prinsip-prinsip (kaidah) di balik teknik yang mereka gunakan. Sehingga mereka lebih fleksibel dalam menggunakan teknik-teknik yang mereka kuasai.
             </span>
             <br />
-            <span>Intermediate: </span>
+            <span>Mampu (Competent): </span>
             <span>
-              Moderate knowledge of technology and its best practices, worked on
-              multiple large scale projects.
+              Di level ini, seorang praktisi mulai memahami konteks, kapan sebuah teknik efektif dilakukan dan kapan sebuah teknik tidak efektif dilakukan. Mereka secara sadar mampu menganalisis teknik yang mereka gunakan.
             </span>
             <br />
-            <span>Familiar: </span>
+            <span>Pemula (Beginner): </span>
             <span>
-              In the process of learning the technology, knows basic out of the
-              box capabilities.
+              Di level ini, seorang praktisi akan mengikuti teknik-teknik yang mereka kuasai secara kaku. Mereka masih harus berpikir untuk mengeksekusi keterampilannya dengan baik.
+              
             </span>
           </div>
         </FadeIn>
