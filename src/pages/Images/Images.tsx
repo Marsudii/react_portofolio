@@ -19,11 +19,7 @@ const photos = [
     width: 3,
     height: 4,
   },
-  {
-    src: 'https://1.bp.blogspot.com/-u7gnZic-9kU/YQZx1_wAUxI/AAAAAAAAAds/x83JxfZ5g5cyW-lN42hEOVqFgywbpGEFACLcBGAsYHQ/s1706/IMG_20201230_055920.jpg',
-    width: 5,
-    height: 3,
-  },
+  
   {
     src: 'https://1.bp.blogspot.com/-I2nF8bkcvGY/YQZyIbHWSQI/AAAAAAAAAd8/K4STFixe9qkca5-lYRRiYvw6WX1Y5BZugCLcBGAsYHQ/s2048/IMG20190818014338.jpg',
     width: 6,
@@ -36,11 +32,7 @@ const photos = [
     height: 4,
   },
 
-  {
-    src: 'https://1.bp.blogspot.com/-LUMyRQulou8/YQZv2O38HeI/AAAAAAAAAcw/13H4GW5qTT0OHgbwEkZ-17CIdeUBgz3cwCLcBGAsYHQ/s1280/IMG-20210516-WA0008.jpg',
-    width: 4,
-    height: 3,
-  },
+  
   {
     src: 'https://1.bp.blogspot.com/-GpraM4hcQ_E/YQZyWn1C_LI/AAAAAAAAAeA/Nid4TmpwZcg_OmXVUqQ-k5JL21_Z6XwXgCLcBGAsYHQ/s2048/IMG20190616070624.jpg',
     width: 4,
