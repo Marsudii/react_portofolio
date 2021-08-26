@@ -92,8 +92,12 @@ const InfoPanel: React.FC = () => {
         <b>Tinggi: </b> 
         
           175 cm
-      
         
+      </p>
+        <p>
+        <b>Berat: </b> 
+        
+          80 kg
         
       </p>
 
