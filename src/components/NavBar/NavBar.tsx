@@ -60,7 +60,7 @@ const SearchNav: React.FC = () => {
               <img src={dots} className={styles.dots} alt="menu" />
             </FadeIn>
             <FadeIn delay={280}>
-              <BlueButton text="Sign in" />
+             <a href="./yourfile.pdf"><BlueButton text="Sign in" /></a>
             </FadeIn>
           </div>
         </div>
