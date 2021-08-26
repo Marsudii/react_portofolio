@@ -51,13 +51,13 @@ const ResultsArray = [
   {
     title: 'MySQL/Maria DB',
     percent: 75,
-    proficiency: 'Familiar',
+    proficiency: 'Mampu (Competent)Mampu (Competent)',
     color: '#dc3545',
   },
   {
     title: 'SQL Server',
     percent: 35,
-    proficiency: 'Familiar',
+    proficiency: 'Mampu (Competent)',
     color: '#dc3545',
   },
   
