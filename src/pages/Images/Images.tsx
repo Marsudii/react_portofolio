@@ -37,7 +37,7 @@ const photos = [
     src: 'https://1.bp.blogspot.com/-GpraM4hcQ_E/YQZyWn1C_LI/AAAAAAAAAeA/Nid4TmpwZcg_OmXVUqQ-k5JL21_Z6XwXgCLcBGAsYHQ/s2048/IMG20190616070624.jpg',
     width: 4,
     height: 3,
-  },
+  }
 ];
 
 const Images: React.FC = () => {
