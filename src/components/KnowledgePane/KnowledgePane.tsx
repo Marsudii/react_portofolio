@@ -75,8 +75,7 @@ const InfoPanel: React.FC = () => {
     <div className={styles.Container}>
       <p className={styles.SocialText} />
       <p>
-        Marsudi adalah seorang <b>Junior Front-End Developer</b> Indonesia yang juga merupakan pendiri openPO dan Co-founder dari cemilan wara - wiri. 
-   
+        Saya adalah seseorang yang dapat bekerja secara individu maupun tim, menyukai tantangan baru, memiliki sifat jujur, kreatif, multitasking dan mudah bergaul serta mudah beradaptasi.
       </p>
       <p>
         <b>Kelahiran: </b> 28 Agustus 1999 (age {age} years),{' '}
@@ -90,20 +89,16 @@ const InfoPanel: React.FC = () => {
         </a>
       </p>
       <p>
-        <b>Pasangan: </b> 
-        <a
-          href="https://www.instagram.com/zirlyananda_/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Zirly Ananda
-        </a> (p. 2016)
+        <b>Tinggi: </b> 
+        
+          175 cm
+      
         
         
       </p>
 
       <p>
-        <b>Hobi: </b> Sepak Bola, Basketball, Gamming
+        <b>Hobi: </b> Programing dan Hiking
       </p>
       <p>
         <b>Pendidikan: </b>{' '}
