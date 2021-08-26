@@ -51,7 +51,7 @@ const ResultsArray = [
   {
     title: 'MySQL/Maria DB',
     percent: 75,
-    proficiency: 'Mampu (Competent)Mampu (Competent)',
+    proficiency: 'Mampu (Competent)',
     color: '#dc3545',
   },
   {
