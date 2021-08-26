@@ -32,6 +32,22 @@ const ResultsArray = [
     img: 'https://1.bp.blogspot.com/-lIOPiUMDUvY/YPtLQwGBxiI/AAAAAAAAAcA/KegB0J9uzg8bG2rjyc0NTSrV5Z8ZJGw3gCLcBGAsYHQ/s300/no-image-icon-6.png',
     technologies: ['Java'],
   },
+  {
+    title: 'Cemilan Wara Wiri',
+    source: 'https://github.com/Marsudii/cemilan_warawiri',
+    description:
+      'CLI minesweeper game with an AI player that utilizes a local optimization algorithm',
+    img: 'https://1.bp.blogspot.com/-lIOPiUMDUvY/YPtLQwGBxiI/AAAAAAAAAcA/KegB0J9uzg8bG2rjyc0NTSrV5Z8ZJGw3gCLcBGAsYHQ/s300/no-image-icon-6.png',
+    technologies: ['React JS'], ['Tailwind CSS'],
+  },
+  {
+    title: 'Komik Cerita Rakyat',
+    source: 'https://github.com/Marsudii/Cerita_Rakyat',
+    description:
+      'CLI minesweeper game with an AI player that utilizes a local optimization algorithm',
+    img: 'https://1.bp.blogspot.com/-lIOPiUMDUvY/YPtLQwGBxiI/AAAAAAAAAcA/KegB0J9uzg8bG2rjyc0NTSrV5Z8ZJGw3gCLcBGAsYHQ/s300/no-image-icon-6.png',
+    technologies: ['React JS'], ['Tailwind CSS'],
+  },
 ];
 
 export default ResultsArray;
