@@ -38,7 +38,7 @@ const ResultsArray = [
     description:
       'CLI minesweeper game with an AI player that utilizes a local optimization algorithm',
     img: 'https://1.bp.blogspot.com/-lIOPiUMDUvY/YPtLQwGBxiI/AAAAAAAAAcA/KegB0J9uzg8bG2rjyc0NTSrV5Z8ZJGw3gCLcBGAsYHQ/s300/no-image-icon-6.png',
-    technologies: ['React JS'], ['Tailwind CSS'],
+    technologies: ['React JS','Tailwind CSS'],
   },
   {
     title: 'Komik Cerita Rakyat',
@@ -46,7 +46,7 @@ const ResultsArray = [
     description:
       'CLI minesweeper game with an AI player that utilizes a local optimization algorithm',
     img: 'https://1.bp.blogspot.com/-lIOPiUMDUvY/YPtLQwGBxiI/AAAAAAAAAcA/KegB0J9uzg8bG2rjyc0NTSrV5Z8ZJGw3gCLcBGAsYHQ/s300/no-image-icon-6.png',
-    technologies: ['React JS'], ['Tailwind CSS'],
+    technologies: ['React JS', 'Tailwind CSS'],
   },
 ];
 
