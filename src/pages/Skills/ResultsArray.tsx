@@ -2,52 +2,54 @@ const ResultsArray = [
   'Bahasa Pemerograman',
   {
     title: 'HTML',
-    percent: 80,
-    proficiency: 'Advanced',
+    percent: 70,
+    proficiency: 'Ahli (Proficient)',
     color: '#00a1a7',
   },
   {
     title: 'CSS',
-    percent: 70,
-    proficiency: 'Advanced',
+    percent: 50,
+    proficiency: 'Mampu (Competent)',
     color: '#00a1a7',
   },
   {
     title: 'JavaScript',
-    percent: 60,
-    proficiency: 'Advanced',
+    percent: 50,
+    proficiency: 'Mampu (Competent)',
     color: '#00a1a7',
   },
   
   {
     title: 'PHP',
-    percent: 70,
-    proficiency: 'Advanced',
+    percent: 50,
+    proficiency: 'Mampu (Competent)',
     color: '#ffc107',
   },
   
   {
     title: 'C++',
-    percent: 60,
-    proficiency: 'Intermediate',
+    percent: 30,
+    proficiency: 'Mampu (Competent)',
     color: '#ffc107',
   },
   {
     title: 'Golang',
-    percent: 40,
-    proficiency: 'Intermediate',
+    percent: 20,
+    proficiency: 'Pemula (Beginner)',
     color: '#ffc107',
   },
  
  
   {
     title: 'Java',
-    percent: 20,
-    proficiency: 'Really Bad ',
+    percent: 10,
+    proficiency: 'Pemula (Beginner) ',
     color: '#ffc107',
   },
+  
+  'Database Management',
   {
-    title: 'MySQL',
+    title: 'MySQL/Maria DB',
     percent: 75,
     proficiency: 'Familiar',
     color: '#dc3545',
@@ -64,56 +66,46 @@ const ResultsArray = [
   {
     title: 'Bootstrap',
     percent: 92,
-    proficiency: 'Advanced',
+    proficiency: 'Mampu (Competent)',
     color: '#00a1a7',
   },
   {
     title: 'React',
     percent: 30,
-    proficiency: 'Intermediate',
-    color: '#00a1a7',
-  },
-  {
-    title: 'Vue',
-    percent: 10,
-    proficiency: 'Advanced',
+    proficiency: 'Pemula (Beginner)',
     color: '#00a1a7',
   },
   {
     title: 'CodeIgniter',
     percent: 70,
-    proficiency: 'Advanced',
+    proficiency: 'Pemula (Beginner)',
     color: '#ffc107',
   },
-  {
-    title: 'Laravel',
-    percent: 20,
-    proficiency: 'Familiar',
-    color: '#ffc107',
-  },
+  
   {
     title: 'Node JS',
     percent: 10,
-    proficiency: 'Familiar',
+    proficiency: 'Pemula (Beginner)',
     color: '#ffc107',
   },
   'Lainnya',
   {
+    title: 'Networking/Jaringan',
+    percent: 70,
+    proficiency: 'Mampu (Competent)',
+    color: '#dc3545',
+  },
+  {
     title: 'Mikrokontroller',
     percent: 60,
-    proficiency: 'Familiar',
+    proficiency: 'Pemula (Beginner)',
     color: '#dc3545',
   },
+  
   {
-    title: 'Networking',
-    percent: 60,
-    proficiency: 'Familiar',
-    color: '#dc3545',
-  },
-  {
-    title: 'Analisis',
+    title: 'Analisis dan Troubleshoot Hardware',
     percent: 50,
-    proficiency: 'Familiar',
+    proficiency: 'Mampu (Competent)',
     color: '#dc3545',
   },
  
