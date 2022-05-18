@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
     <div className={styles.footer}>
       <p> &copy; 2020 Marsudi, all rights reserved.</p>
       <p>
-        Proudly built with React, Typescript and{' '}
+        Proudly built with React and{' '}
         <span role="img" aria-label="heart">
           ❤️.
         </span>
